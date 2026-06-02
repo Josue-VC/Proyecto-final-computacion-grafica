@@ -1,2 +1,2 @@
-# 318285553_PF_CGEIHC_Gpo05
-318285553 Gpo:05
+# Proyecto computacion grafica
+
